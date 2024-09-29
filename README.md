@@ -56,4 +56,4 @@ In this demo, I will demonstrate how to set up Cross-Region Replication (CRR) fo
 - Removed the `s3crr_role_for_sourcebucketfarah` role from IAM.
 
 ## Conclusion
-In this demo, I successfully set up Cross-Region Replication (CRR) between two S3 buckets (in the same account) : `sourcebucketfarah` and `destinationbucketfarah`. I configured static website hosting and demonstrated how changes made in the source bucket replicated to the destination bucket. This setup ensures disaster recovery for static websites on AWS from one region to another AWS region.
+In this demo, I successfully set up Cross-Region Replication (CRR) between two S3 buckets (within the same account) : `sourcebucketfarah` and `destinationbucketfarah`. I configured static website hosting and demonstrated how changes made in the source bucket replicated to the destination bucket. This setup ensures disaster recovery for static websites on AWS from one region to another AWS region.
