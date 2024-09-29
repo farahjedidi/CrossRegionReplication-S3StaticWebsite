@@ -1,0 +1,1 @@
+# CrossRegionReplication-S3StaticWebsite
